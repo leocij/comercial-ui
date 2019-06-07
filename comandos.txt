@@ -1,0 +1,3 @@
+npm install primeng primeicons primeflex @angular/animations --save
+
+npm install @angular/cdk --save
